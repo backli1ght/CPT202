@@ -3,7 +3,7 @@ public class test{
         System.out.println("Hello world");
         for (int i = 0; i < 12; i++) {
             System.out.println(i);
+            i++;
         }
     }
-
 }
